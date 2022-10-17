@@ -58,6 +58,32 @@
 
 
 Language and Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux&logoColor=yellow)
+![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=E9D54D)
+![Header](https://img.shields.io/badge/Spring-090909?style=for-the-badge&logo=spring&logoColor=236DB33F)
+![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=236DB33F)
+![Header](https://img.shields.io/badge/Junit5-090909?style=for-the-badge&logo=JUnit5&logoColor=lime)
+![Header](https://img.shields.io/badge/JS-090909?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![Header](https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
+![Header](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=40E0D0)
+![Header](https://img.shields.io/badge/PlayWright-090909?style=for-the-badge&logo=playwright&logoColor=#1a7e1f)
+![Header](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=jest&logoColor=#13b811)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/IDEA-090909?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=Xcode&logoColor=dodgerblue)
+![Header](https://img.shields.io/badge/Gradle-090909?style=for-the-badge&logo=gradle&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Maven-090909?style=for-the-badge&logo=Apache&logoColor=red)
+![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=royalblue)
+![Header](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=NGINx&logoColor=white)
+
 
 
 Follow Me
