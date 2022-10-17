@@ -57,7 +57,8 @@
 
 
 
-Language and Tools
+## Language and Tools
+
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -85,5 +86,14 @@ Language and Tools
 ![Header](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=NGINx&logoColor=white)
 
 
+## Follow Me
 
-Follow Me
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Kopsheff)
+[![Header](https://img.shields.io/badge/WhatsAPP-090909?style=for-the-badge&logo=Whatsapp&logoColor=lime)](https://wa.me/79005663200)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BF%D1%88%D0%B5%D0%B2-1b98b9a2/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurikopshev&show_icons=true&theme=yeblu)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurikopshev)](https://github.com/anuraghazra/github-readme-stats)
