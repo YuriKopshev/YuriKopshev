@@ -8,9 +8,13 @@
 ## My education
 [Master's degree in computer science](https://drive.google.com/file/d/1UCnak8IqvwSogLfcSScxF5fMcCqPbvUX/view?usp=sharing)
 
-[QA Engineer](https://drive.google.com/file/d/12RYWRP6Pnxw6AnqB3v3ZCCcH6BrcTI2E/view?usp=sharing)
+[QA Engineer](https://drive.google.com/file/d/1AcRGslNszLJKQyALZRpCBqM3IcBdrcdA/view?usp=share_link)
 
 [Java developer]()
+
+[Mobile Testing](https://drive.google.com/file/d/19GMG3cDSK5T4Mn_aQvoM_tz6iYwy4nGr/view?usp=share_link)
+
+[Load Testing](https://drive.google.com/file/d/19p7weESdiBhD3ZAj4UzPjOVYOlN7mpEq/view?usp=share_link)
 
 [Web test automation interfaces in JavaScript](https://drive.google.com/file/d/1JnT0A0oCS-RK2JfANOK07iKFcbBk7eZV/view?usp=sharing)
 
@@ -41,7 +45,9 @@
 
 ##### Mobile QA
 
-[Mobile testing projects]()
+[Espresso Test Recorder](https://github.com/YuriKopshev/MobileHW1/tree/master)
+
+[UIAutomator](https://github.com/YuriKopshev/UIAutomator)
 
 ## My Java Projects
 [CRUD - Test Management System](https://github.com/YuriKopshev/Homework-14)
@@ -54,6 +60,7 @@
 
 [REST Application - Money transfer service](https://github.com/YuriKopshev/CardTransferApplication)
 
+[Diploma Project](https://github.com/YuriKopshev/JavaFinalProject)
 
 
 
