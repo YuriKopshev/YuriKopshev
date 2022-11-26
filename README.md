@@ -10,7 +10,7 @@
 
 [QA Engineer](https://drive.google.com/file/d/1AcRGslNszLJKQyALZRpCBqM3IcBdrcdA/view?usp=share_link)
 
-[Java developer]()
+[Java developer](https://drive.google.com/file/d/1J-cf0-VafalF1bqrzKLYzF8C6d43Ktns/view?usp=share_link)
 
 [Mobile Testing](https://drive.google.com/file/d/19GMG3cDSK5T4Mn_aQvoM_tz6iYwy4nGr/view?usp=share_link)
 
@@ -28,7 +28,7 @@
 
 [Beta testing of the VideoMost web application](https://drive.google.com/file/d/13U3zfFQyYOqCfhESMpZ7wfxgimBYhJzt/view?usp=sharing)
 
-##### Automation QA
+##### Java Automation QA
 [Testing the bank card delivery order form on Selenide](https://github.com/YuriKopshev/2.3.1-Patterns)
 
 [Testing web interface login functionality using Selenide](https://github.com/YuriKopshev/-2.3.2-Patterns)
