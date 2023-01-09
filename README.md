@@ -16,6 +16,8 @@
 
 [Load Testing](https://drive.google.com/file/d/19p7weESdiBhD3ZAj4UzPjOVYOlN7mpEq/view?usp=share_link)
 
+[Security Testing](https://drive.google.com/file/d/1hC6McjqxZ1druhof1047WaL8XSyHBj4n/view?usp=share_link)
+
 [Web test automation interfaces in JavaScript](https://drive.google.com/file/d/1JnT0A0oCS-RK2JfANOK07iKFcbBk7eZV/view?usp=sharing)
 
 [Mini MBA Professional](https://drive.google.com/file/d/1gjZvPB-sZYVnvr_ad0cR5TBKeC3N0SNP/view?usp=sharing)
@@ -48,6 +50,12 @@
 [Espresso Test Recorder](https://github.com/YuriKopshev/MobileHW1/tree/master)
 
 [UIAutomator](https://github.com/YuriKopshev/UIAutomator)
+
+[Appium](https://github.com/YuriKopshev/Appium-tests)
+
+[Espresso with Allure report](https://github.com/YuriKopshev/Espresso_1)
+
+[Espresso Idling Resources](https://github.com/YuriKopshev/Espresso_2)
 
 ## My Java Projects
 [CRUD - Test Management System](https://github.com/YuriKopshev/Homework-14)
