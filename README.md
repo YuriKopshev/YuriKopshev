@@ -57,6 +57,21 @@
 
 [Espresso Idling Resources](https://github.com/YuriKopshev/Espresso_2)
 
+##### Load Testing
+
+[Load testing stand](https://github.com/YuriKopshev/StendMonitor/tree/master/samples)
+
+[Load testing DB](https://github.com/YuriKopshev/LoadHW4)
+
+[Load web testing](https://github.com/YuriKopshev/LoadHW3)
+
+##### Security Testing
+
+[OS-level vulnerabilities](https://docs.google.com/document/d/1sChjudG0l2Zz-v7hFW_jz4dqRzX6BRveSHJmDgJ8tn0/edit#heading=h.u7s8641t8q53)
+
+[SQL, XSS, Code Injection](https://docs.google.com/document/d/1qEfvwNjKG-yZ-JwZnyYBGxkVABFR1VdqHnktPMFmQDI/edit)
+
+
 ## My Java Projects
 [CRUD - Test Management System](https://github.com/YuriKopshev/Homework-14)
 
