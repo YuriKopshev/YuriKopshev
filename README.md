@@ -105,6 +105,7 @@
 ![Header](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=40E0D0)
 ![Header](https://img.shields.io/badge/PlayWright-090909?style=for-the-badge&logo=playwright&logoColor=#1a7e1f)
 ![Header](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=jest&logoColor=#13b811)
+![Header](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
