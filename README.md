@@ -22,7 +22,7 @@
 
 [Mini MBA Professional](https://drive.google.com/file/d/1gjZvPB-sZYVnvr_ad0cR5TBKeC3N0SNP/view?usp=sharing)
 
-[Voluntary qualifying examination](https://drive.google.com/file/d/11ZtjnJG1BHqynrMTvblDny_9NnHekbwJ/view?usp=sharing)
+[Voluntary qualifying examination](https://drive.google.com/file/d/1Ymogd4AhGqPLaxzYrD-uc2pIYNJPVpPQ/view?usp=share_link)
 
 ## My QA Projects
 ##### Manual OA
