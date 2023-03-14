@@ -1,14 +1,18 @@
 
 ![Header](https://github.com/YuriKopshev/YuriKopshev/blob/main/assets/QA1.png)
 
-## I am beginner QA engineer! I want to become good professional in software development. I also write quite well in Java + Spring. You can see my work below. 
+## I am beginner QA engineer! I want to become good professional in quality assurance. I have experience with frameworks like Cypress and Puppeteer + JS, Selenium and Selenide + Java. I also write quite well code in Java + Spring. You can see my works below. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1rJKngFKQ0CnLE-IKiLeC4suC5k0HA_2S/view?usp=sharing)
+[Link to my CV](https://spb.hh.ru/resume/c3908656ff0b00286a0039ed1f6a6c7574626d)
 
-## My education
-[Master's degree in computer science](https://drive.google.com/file/d/1UCnak8IqvwSogLfcSScxF5fMcCqPbvUX/view?usp=sharing)
+## My education and courses
+[Master's degree in computer science](https://drive.google.com/file/d/1PiUKSknXoxXh18srKfVdQbGZOMlJF8hn/view?usp=share_link)
 
 [QA Engineer](https://drive.google.com/file/d/1AcRGslNszLJKQyALZRpCBqM3IcBdrcdA/view?usp=share_link)
+
+[QA Engineer Middle](https://drive.google.com/file/d/1C5qmfGQQQvTqNeruwnVsVQqKtbuenWL3/view?usp=share_link)
+
+[Postman for QA](https://stepik.org/cert/1978966)
 
 [Java developer](https://drive.google.com/file/d/1J-cf0-VafalF1bqrzKLYzF8C6d43Ktns/view?usp=share_link)
 
@@ -26,18 +30,26 @@
 
 ## My QA Projects
 ##### Manual OA
-[Preparing test scripts to test the frontend http://zayavka-na-kartu-1.sdew.ru/](https://docs.google.com/spreadsheets/d/1kF5xq-BSSxqpVQ3Y23BECPt2Qu3Yb_bUECfi1yJmAfo/edit#gid=0)
+[Test cases for mobile app](https://docs.google.com/spreadsheets/d/1npIFUotsX6VvNCLTS_zwziuaXD50_4UP57BunHhNTik/edit#gid=0)
+
+[Preparing test cases to test the frontend http://zayavka-na-kartu-1.sdew.ru/](https://docs.google.com/spreadsheets/d/1kF5xq-BSSxqpVQ3Y23BECPt2Qu3Yb_bUECfi1yJmAfo/edit#gid=0)
+
+[Bag report example](https://docs.google.com/spreadsheets/d/1QrBGlqEiWItlOvJ9YVpFy0zQAk8blxQ5ilTQAOQINoA/edit#gid=0)
+
+[Check - list example](https://docs.google.com/spreadsheets/d/1f6Vi5bQ6k5YJew80jq2pQMLWxmJZ6-QhSpYa1oFdmkY/edit#gid=0)
 
 [Beta testing of the VideoMost web application](https://drive.google.com/file/d/13U3zfFQyYOqCfhESMpZ7wfxgimBYhJzt/view?usp=sharing)
 
 ##### Java Automation QA
+[Testing online shop on Selenium](https://github.com/YuriKopshev/Selenium-practice)
+
 [Testing the bank card delivery order form on Selenide](https://github.com/YuriKopshev/2.3.1-Patterns)
 
 [Testing web interface login functionality using Selenide](https://github.com/YuriKopshev/-2.3.2-Patterns)
 
 [Testing the transfer function between bank cards using BDD](https://github.com/YuriKopshev/Akita-BDD)
 
-[Testing API with rest-assured](https://github.com/YuriKopshev/APISqlTest)
+[Testing API with rest-assured](https://github.com/YuriKopshev/LinkedIn_rest_assured_testing)
 
 [Preparing test reports with ReportPortal](https://github.com/YuriKopshev/ReportPortal)
 
@@ -46,6 +58,7 @@
 [Testing web interfaces with Jest,Playwright Puppeter,Cypress](https://github.com/YuriKopshev/jsaqa-code)
 
 ##### Mobile QA
+[Testing mobile app using Espresso framework with Allure report](https://github.com/YuriKopshev/QA_middle_finalWork)
 
 [Espresso Test Recorder](https://github.com/YuriKopshev/MobileHW1/tree/master)
 
