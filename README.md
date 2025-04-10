@@ -1,7 +1,8 @@
 
 ![Header](https://github.com/YuriKopshev/YuriKopshev/blob/main/assets/QA1.png)
 
-## I am beginner QA engineer! I want to become good professional in quality assurance. I have experience with frameworks like Cypress and Puppeteer + JS, Selenium and Selenide + Java. I also write quite well code in Java + Spring. You can see my works below. 
+## I am an active QA engineer! I want to become good professional in quality assurance. I have experience working with frameworks Cypress + JS and Playwright + JS, Selenium + Java and Selenide + Java. I also write quite well code in Java + Spring. You can see my works below. 
+
 ## My CV
 [Link to my CV](https://spb.hh.ru/resume/c3908656ff0b00286a0039ed1f6a6c7574626d)
 
@@ -29,16 +30,6 @@
 [Voluntary qualifying examination](https://drive.google.com/file/d/1Ymogd4AhGqPLaxzYrD-uc2pIYNJPVpPQ/view?usp=share_link)
 
 ## My QA Projects
-##### Manual OA
-[Test cases for mobile app](https://docs.google.com/spreadsheets/d/1npIFUotsX6VvNCLTS_zwziuaXD50_4UP57BunHhNTik/edit#gid=0)
-
-[Preparing test cases to test the frontend http://zayavka-na-kartu-1.sdew.ru/](https://docs.google.com/spreadsheets/d/1kF5xq-BSSxqpVQ3Y23BECPt2Qu3Yb_bUECfi1yJmAfo/edit#gid=0)
-
-[Bag report example](https://docs.google.com/spreadsheets/d/1QrBGlqEiWItlOvJ9YVpFy0zQAk8blxQ5ilTQAOQINoA/edit#gid=0)
-
-[Check - list example](https://docs.google.com/spreadsheets/d/1f6Vi5bQ6k5YJew80jq2pQMLWxmJZ6-QhSpYa1oFdmkY/edit#gid=0)
-
-[Beta testing of the VideoMost web application](https://drive.google.com/file/d/13U3zfFQyYOqCfhESMpZ7wfxgimBYhJzt/view?usp=sharing)
 
 ##### Java Automation QA
 [Testing online shop on Selenium](https://github.com/YuriKopshev/Selenium-practice)
